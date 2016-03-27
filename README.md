@@ -22,7 +22,8 @@ Edge Distributed Security Detection
 
 
 #### 安装
-
+```
   $ git clone https://github.com/edge-security/edge_dsd.git
   $ cd edge_dsd
   $ python setup.py install
+```
